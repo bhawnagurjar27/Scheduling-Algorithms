@@ -1,0 +1,9 @@
+Output:
+Processes    Burst Time     Waiting Time     Turn-Around Time
+  1 		 6 		 3 		 9
+  2 		 8 		 16 		 24
+  3 		 7 		 8 		 15
+  4 		 3 		 0 		 3
+
+Average waiting time = 6.75000 
+Average turn around time =  12.75
